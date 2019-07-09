@@ -1,0 +1,7 @@
+---------------------------------------About--------------------------------------
+
+Launches the site www.bim365.tech
+
+---------------------------------------Help---------------------------------------
+
+Opens this file, to describe the intent of each command.

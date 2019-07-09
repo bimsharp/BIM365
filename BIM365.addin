@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>BIM 365</Name>
+    <Assembly>BIM365\BIM365.dll</Assembly>
+    <ClientId>1FED2614-1348-453D-BCF0-0ABAF994B56B</ClientId>
+    <FullClassName>BIM365.Ribbon.App</FullClassName>
+    <VendorId>BIM365</VendorId>
+    <VendorDescription>www.bim365.tech</VendorDescription>
+  </AddIn>
+</RevitAddIns>
