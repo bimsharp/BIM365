@@ -56,7 +56,10 @@ namespace BIM365.Ribbon
       }
       catch (Exception _ex)
       {
-        TaskDialog.Show("Error", _ex.Message + _ex.StackTrace);
+        Autodesk.Revit.UI.TaskDialog.Show(
+          "Error", 
+          _ex.Message + _ex.StackTrace);
+
         return Result.Failed;
       }
     }
